@@ -1,4 +1,4 @@
-# Chapter 7: IDT and Interrupts
+# Chapter 1: IDT and Interrupts
 
 An interrupt is a signal to the processor emitted by hardware or software indicating an event that needs immediate attention.
 
