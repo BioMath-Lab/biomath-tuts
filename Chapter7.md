@@ -14,3 +14,10 @@ When the user presses a key on the keyboard, ...
 The PIC (Programmable Interrupt Controller) is a device that ...
 
 [← Chapter 6: GDT](Chapter6.md) | [Home](README.md) | [Chapter 8: Memory Management →](Chapter8.md)
+
+<details>
+<summary>Quick Quiz</summary>
+<p>What is an interrupt?</p>
+<button onclick="alert('Correct!')">A signal to the processor that needs immediate attention.</button>
+<button onclick="alert('Try again!')">A function call within the program.</button>
+</details>
